@@ -8,7 +8,7 @@
 
 Use Underscore for below
 
-* Create an array of movies with budgets less than 100 (where)
+* Create an array of movies with budgets equal to 55 (where)
 * Create an array of movies that have Leonardo DiCaprio as a star (filter)
 
 ```js
@@ -37,6 +37,11 @@ Use Underscore for below
    "title": "Inception",
    "budget": 160,
    "stars": ["Leonardo DiCaprio", "JGL"]
+ },
+ {
+   "title": "Shrek the Third",
+   "budget": 160,
+   "stars": ["Mike Myers", "Cameron Diaz"]
  }
 ]
 ```
