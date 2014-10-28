@@ -2,9 +2,9 @@
 
 * Make an array of your favorite movies or books or bands. Have at least 4
   values.
-* Make a hash of information about yourself. Have at least 4 keys+values
-* Use .each to loop through the array of hashes and print only one property of the hash -- using core JavaScript
-  For example { title: "Gone with the Wind" } loop through and print only the [:title]
+* Make a object of information about yourself. Have at least 4 keys+values
+* Use .each to loop through the array of objects and log only one property of the hash -- using core JavaScript
+  For example { title: "Gone with the Wind" } loop through and print only the .title
 
 Use Underscore for below
 
